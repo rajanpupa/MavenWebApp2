@@ -1,0 +1,4 @@
+baseDir=/MavenWebApp2/src/main/webapp
+contextName=/MavenWebApp2
+eclipse.preferences.version=1
+webType=Tomcat6
